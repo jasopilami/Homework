@@ -1,5 +1,5 @@
 /*
-10. Schreiben Sie ein JavaScript-Programm, um ein Array zu mischen!
+10. Schreiben Sie ein JavaScript-Programm, um ein Array zu mischen.
 */
 
 function shuffle(array) {
