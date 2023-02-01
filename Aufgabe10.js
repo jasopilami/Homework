@@ -21,6 +21,6 @@ function shuffle(array) {
   }
   
   
-  var arr = [2, 11, 37, 42];
+  let arr = [2, 11, 37, 42];
   shuffle(arr);
   console.log(arr);
